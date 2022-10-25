@@ -3,4 +3,6 @@ Algoritmo sin_titulo
 	escribir "dime cual es tu nombre"
 	leer nombre
     escribir "hola  " , "" , nombre
+	saludo="hay HP"
+	escribir saludo
 FinAlgoritmo
